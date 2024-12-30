@@ -1,0 +1,7 @@
+Welcome
+You are shooting the ships placed by the Bot
+Type the coordinates in the box that says "SHOOT"
+There is one 4-Ship, one 3-Ship and three 2-Ships
+You must get all ships to win. You have 30 Chances. Make It Count 
+Good Luck!
+Press Space to Contintue
