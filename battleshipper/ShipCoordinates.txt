@@ -1,5 +1,1 @@
-4 Ship Coordinates - F1 F2 F3 F4 
-3 Ship Coordinates - G3 G4 G5 
-2 Ship Coordinates - C4 C5 
-2 Ship Coordinates - D2 D3 
-2 Ship Coordinates - A5 A6 
+
